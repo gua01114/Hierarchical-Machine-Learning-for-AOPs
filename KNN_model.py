@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 from sklearn.neighbors import KNeighborsRegressor
 
 # Step 1: Preprocessing the first dataset and building the model
-file_path = r"C:\Users\USER\Desktop\JHW\01.Research\12.KHU\01.Data\KHU_data_0924.xlsx"
+file_path = r".\Sample_data.xlsx"
 
 # Load 'H2O2' sheet
 data = pd.read_excel(file_path, sheet_name='H2O2', header=0)
