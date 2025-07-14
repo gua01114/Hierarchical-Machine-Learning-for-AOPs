@@ -13,6 +13,8 @@ This study developed a two-stage hierarchical machine learning model that explic
 
 ∙ *_data.xlsx: Files named "_data.xlsx" were the sample data sets for AOPs using MOF as sonocatalyst. The data were collected by our experiments. The detailed experimental processes have been described in our previous publication. The entire data will be made available upon request.
 
+∙ *.pkl: Files in .pkl format correspond to the CB-based models evaluated as the optimal models in this study. The numbers "1" and "2" in the filenames indicate the first and second stages of the hierarchical modeling approach, respectively.
+
 # Findings
 This study established a machine learning framework that integrates ROS into predictive modeling for AOPs. The propsosed approach enhanced the mechanistic understanding and optimization of ultrasound-based AOPs with sonocatalysts.
 
