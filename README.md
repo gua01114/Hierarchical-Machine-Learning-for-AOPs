@@ -11,7 +11,7 @@ This study developed a two-stage hierarchical machine learning model that explic
 
 ∙ *_PDP.py: Files named “_PDP.py” were used to apply partial dependence plots for model interpretation.
 
-∙ *_data.xlsx: Files named "_data.xlsx" were the sample data sets for AOPs using MOF as sonocatalyst. The data were collected by our experiments. The detailed experimental processes have been described in our previous publication. The entire data will be made available upon request.
+∙ Raw_data.xlsx: Files named "Raw_data.xlsx" is the the complete dataset used in this study. The Excel file contains two separate sheets: one for H₂O₂ production and the other for degradation efficiency, which are the two primary target variables of the machine learning models. In each sheet, all columns except for the target variable were used as input features. The data were collected from our experiments on ultrasonic-based advanced oxidation processes using MOFs and MXenes as sonocatalysts. Detailed experimental conditions and procedures are available in our previous publications: Jun et al., Ultrasonics Sonochemistry 56 (2019) 174–182 [https://doi.org/10.1016/j.ultsonch.2019.04.019], and Jun et al., Ultrasonics Sonochemistry 64 (2020) 104993 [https://doi.org/10.1016/j.ultsonch.2020.104993].
 
 ∙ *.pkl: Files in .pkl format correspond to the CB-based models evaluated as the optimal models in this study. The numbers "1" and "2" in the filenames indicate the first and second stages of the hierarchical modeling approach, respectively.
 
